@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=awesome
+Comment=Highly configurable framework window manager
+Exec=/usr/bin/awesome
+NoDisplay=true
+X-GNOME-Autostart-Phase=DisplayServer
+X-GNOME-Provides=panel;windowmanager;
+X-GNOME-Autostart-Notify=true
+X-GNOME-AutoRestart=false
