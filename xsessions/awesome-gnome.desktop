@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=awesome-gnome
+Comment=Awesome with GNOME
+Exec=gnome-session --session=awesome
+TryExec=gnome-session
+Type=Application
+DesktopNames=Awesome with GNOME

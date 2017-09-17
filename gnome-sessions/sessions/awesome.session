@@ -1,0 +1,3 @@
+[GNOME Session]
+Name=Awesome with GNOME
+RequiredComponents=awesome
