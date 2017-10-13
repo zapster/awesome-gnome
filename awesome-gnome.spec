@@ -1,3 +1,6 @@
+# INFO: Package contains data-only, no binaries, so no debuginfo is needed
+%global debug_package %{nil}
+
 Name:		awesome-gnome
 Version:	0.1
 Release:	1%{?dist}
@@ -8,6 +11,8 @@ URL:		https://github.com/zapster/awesome-gnome-rpm
 Source0:	awesome-gnome.desktop
 Source1:	awesome.session
 Source2:	awesome.desktop
+
+BuildArch:  noarch
 
 Requires:	awesome
 Requires:	gnome-session
