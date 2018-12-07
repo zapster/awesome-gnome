@@ -3,7 +3,7 @@
 
 Name:		awesome-gnome
 Version:	0.1
-Release:	2%{?dist}
+Release:	3%{?dist}
 Summary:	Awesome in gnome-session
 
 License:	Public Domain
